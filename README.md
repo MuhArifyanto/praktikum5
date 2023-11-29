@@ -41,7 +41,7 @@
     print(nama, "|", nomor)
     Menampilkan daftar kontak setelah entri "Dina" dihapus.
 ## INPUT
-![Alt text](A2-1.png)
+![Alt text](A2.png)
 
 ## OUTPUTNYA
 ![Alt text](A1.png)
@@ -175,7 +175,7 @@ for z in list.items():
 ><b>Program untuk menghentikan perulangan</b><br>Jika menginput"k/K" program akan berhenti melakukan perulangan dan otomatis keluar dari program
 
 ### Hasil program
-![Alt text](A3-2.png)
+![Alt text](A3.png)
 >Hasil hanya sebagian dari fungsi program
 
 
